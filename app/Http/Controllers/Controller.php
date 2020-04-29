@@ -12,5 +12,5 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
 //    public static $API_URL = "http://localhost:8000"; //local
-    public static $API_URL = "http://api.kiloassemble.agelgel.net"; //production
+    public static $API_URL = "http://api.6kiloassemble.agelgel.net"; //production
 }
